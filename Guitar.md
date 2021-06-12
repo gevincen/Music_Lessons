@@ -1,3 +1,16 @@
+```diff
++ Psalm 33:3 KJV
++ Sing unto him a new song; Play skilfully with a loud noise.
+
+! Hebrews 13:17 KJV
+! Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
+
+- Proverbs 20:12 KJV
+- The hearing ear, and the seeing eye, The LORD hath made even both of them.
+
+@@ Hebrews 8:10 KJV @@
+@@ For this is the covenant that I will make with the house of Israel After those days, saith the Lord; I will put my laws into their mind, And write them in their hearts: And I will be to them a God, And they shall be to me a people@@
+```
 # Things to keep in mind when playing for a new song
 ## Clap the pulse, feel the rythm and get the timing
 ## Measure each chord length
