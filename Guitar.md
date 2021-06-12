@@ -1,4 +1,4 @@
-# Things to keep in mind playing for a new song
+# Things to keep in mind when playing for a new song
 ## Clap the pulse, feel the rythm and get the timing
 ## Measure each chord length
 ## 1/8 or 1/16th feel -- get the strumming pattern
@@ -11,7 +11,7 @@
 # Problems faced
 ## extra beats 
 ## click and strum off 
-## word not on beat, syncopation
+## word not on the beat, syncopation
 
 # How to practice to get the rythm
 ## Slowly each line at a time
