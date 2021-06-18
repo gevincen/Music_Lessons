@@ -36,6 +36,6 @@
 ## relate the feel of the song in strumming pattern
 ## slow tempo practice small piece then put together
 ## Ability to slow the tempo and fast tempo
-## learn to increase and decrease timings, fredom comes from discipline
+## learn to increase and decrease timings, freedom comes from discipline
 ## develop awareness where am i in the measure 
 
